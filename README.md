@@ -37,6 +37,10 @@ This code features:
 
 There are no tests currently.
 
+## Limitations
+
+Currently the code does not check that the password contains all elements ticked on the website.  This would need to be added to ensure the password meets all required criteria. 
+
 ## Link to page
 
 https://leesaal.github.io/PasswordGenerator/
