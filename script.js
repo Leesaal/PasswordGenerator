@@ -47,5 +47,10 @@ function checkPassword() {
   
 }
 
+function showCriteria() {
+  cardCriteria.removeAttribute("hidden");
+  generateBtn.addEventListener("click", checkPassword);
+}
+
 // Add event listener to generate button
 generateBtn.addEventListener("click", checkPassword);
