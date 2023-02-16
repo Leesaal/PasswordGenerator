@@ -10,6 +10,8 @@ When the button "Generate Password", the new password will show in the box in bl
 
 This program also hides the criteria until "Show Criteria" is clicked and then the criteria will show and the button will change to "Generate Password".
 
+If no character type is selected, an alert will show on the screen prompting the user to choose at least one character type.
+
 ## Installation
 
 N/A
@@ -33,6 +35,7 @@ This code features:
 2. The use of if statements to show different outputs depending on inputs from the user
 3. Changing text depending on user action
 4. Use of Javascript to change HTML
+5. Alerts
 
 ## Tests
 
