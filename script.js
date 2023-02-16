@@ -1,7 +1,6 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-
-var form = document.getElementById("#form");
+var cardCriteria = document.getElementById("cardCriteria");
 var includeUpper = document.getElementById("includeUpper");
 var includeLower = document.getElementById("includeLower");
 var includeNumbers = document.getElementById("includeNumbers");
@@ -39,6 +38,7 @@ function generatePassword() {
 }  
 
 function checkPassword() {
+
   if ((includeLower.checked == false) && (includeNumbers.checked == false) && (includeSpecial.checked == false) && (includeUpper.checked == false)) {
     alert("Please select at least one character option");
   } else {
@@ -49,6 +49,7 @@ function checkPassword() {
 
 function showCriteria() {
   cardCriteria.removeAttribute("hidden");
+  document.getElementById("generate").innerHTML = "Generate Password";
   generateBtn.addEventListener("click", checkPassword);
 }
 
