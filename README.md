@@ -8,7 +8,7 @@ There is a minimum password length of 8 characters and maximum of 127 characters
 
 When the button "Generate Password", the new password will show in the box in black where it will originally say "Your Secure Password".
 
-This program also hides the criteria until generate password is clicked and then the criteria will show.
+This program also hides the criteria until "Show Criteria" is clicked and then the criteria will show and the button will change to "Generate Password".
 
 ## Installation
 
@@ -31,9 +31,7 @@ Please refer to the LICENSE in the repo
 This code features:
 1. Javascript functionality
 2. The use of if statements to show different outputs depending on inputs from the user
-3. getElementById 
-4. Concatenation of an array
-5. Random function
+3. Changing text depending on user action
 
 ## Tests
 
