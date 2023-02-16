@@ -53,4 +53,4 @@ function showCriteria() {
 }
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", checkPassword);
+generateBtn.addEventListener("click", showCriteria);
