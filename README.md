@@ -44,6 +44,7 @@ There are no tests currently.
 ## Limitations
 
 Currently the code does not check that the password contains all elements ticked on the website.  This would need to be added to ensure the password meets all required criteria. 
+Would need to implement preventDefault from next week's sessions to stop form submission when pressing enter in the character length field.
 
 ## Link to page
 
