@@ -8,6 +8,8 @@ There is a minimum password length of 8 characters and maximum of 127 characters
 
 When the button "Generate Password", the new password will show in the box in black where it will originally say "Your Secure Password".
 
+This program also hides the criteria until generate password is clicked and then the criteria will show.
+
 ## Installation
 
 N/A
