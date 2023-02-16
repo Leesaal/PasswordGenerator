@@ -49,4 +49,5 @@ https://leesaal.github.io/PasswordGenerator/
 
 ## Image of webpage
 
-![Portfolio webpage](https://user-images.githubusercontent.com/118930290/217950972-c983e819-a595-491e-9130-f4b84b2ef1aa.png)
+<img width="1440" alt="Password Generator" src="https://user-images.githubusercontent.com/118930290/219481921-7722be68-aa52-4583-9d28-d463f680b73d.png">
+
