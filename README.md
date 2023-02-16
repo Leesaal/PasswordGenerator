@@ -32,6 +32,7 @@ This code features:
 1. Javascript functionality
 2. The use of if statements to show different outputs depending on inputs from the user
 3. Changing text depending on user action
+4. Use of Javascript to change HTML
 
 ## Tests
 
